@@ -36,7 +36,12 @@ It highlights risky keywords, provides risk scores, and explains why a message m
 ## 🎥 Demo
 
 - **Watch the demo:** [Click here](https://drive.google.com/file/d/1Wvtwa83V1Q5bONQExH4UKijmdylNyC9c/view?usp=drivesdk)
-- **Frontend + Backend repo:** [GitHub Link](https://github.com/efficientstudying25-pixel/hackathon-backend)  
+- **Try it yourself:** [Live Demo](scam-guard-ai.netlify.app)
+
+⚠️ **Note:**  
+The backend is hosted on a **free-tier server**, so the **first request may take a few seconds to load** if the server was inactive.  
+After it wakes up, responses are much faster.
+- **Frontend + Backend Repo:** [GitHub Link](https://github.com/efficientstudying25-pixel/ScamGuard-AI)
 
 ---
 
@@ -52,5 +57,5 @@ It highlights risky keywords, provides risk scores, and explains why a message m
 
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/efficientstudying25-pixel/hackathon-backend
-cd hackathon-backend
+git clone https://github.com/efficientstudying25-pixel/ScamGuard-AI
+cd ScamGuard-AI
