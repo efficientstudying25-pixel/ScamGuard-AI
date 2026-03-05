@@ -36,7 +36,7 @@ It highlights risky keywords, provides risk scores, and explains why a message m
 ## 🎥 Demo
 
 - **Watch the demo:** [Click here](https://drive.google.com/file/d/1Wvtwa83V1Q5bONQExH4UKijmdylNyC9c/view?usp=drivesdk)
-- **Try it yourself:** [Live Demo](scam-guard-ai.netlify.app)
+- **Try it yourself:** [Live Demo](https://scam-guard-ai.netlify.app/)
 
 ⚠️ **Note:**  
 The backend is hosted on a **free-tier server**, so the **first request may take a few seconds to load** if the server was inactive.  
